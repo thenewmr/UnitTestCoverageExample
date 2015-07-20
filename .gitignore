@@ -1,0 +1,13 @@
+.gradle
+/local.properties
+
+# experimentally ignoring all files in .idea folder (no consensus on internet about this but
+# auto-generated files are giving people unnecessary conflicts when merging so going to do this
+# on a trial basis)
+.idea
+
+.DS_Store
+/build
+
+# experimental ignoring of iml files
+*.iml
